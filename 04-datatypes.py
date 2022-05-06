@@ -8,7 +8,7 @@
    -list
    -typle
    -dict
-'''
+
 name={
     "frias":{
         "js":60,
@@ -38,3 +38,8 @@ for k , v in name.items():
     for k1,v1 in v.items():
         print(f"---{k1} => {v1}")
 
+'''
+x = "firas"
+y='firas'
+z=''''firas'''
+x
